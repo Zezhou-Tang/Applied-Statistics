@@ -6,8 +6,10 @@ googleAnalytics: ''
 disqusShortname: ''
 params:
   banner:
+    image: spices.jpg
     buttonText: Get Started
-    subtitle: |-
+    # slug: risk_return
+    #subtitle: |-
       # A RESPONSIVE SITE TEMPLATE DESIGNED BY HTML5 UP
       # AND RELEASED UNDER THE CREATIVE COMMONS.
     title: Hi, my name is Zezhou Tang.
@@ -81,10 +83,10 @@ params:
   tiles:
     enable: yes
     showcase:
-      - image: pic01.jpg
+      - image: lbs.jpg
         subtitle: Ipsum Dolor Sit Amet
-        title: Aliquam
-        url: blogs/aliquam
+        title: risk_return
+        url: blogs/risk_return
       - image: pic02.jpg
         subtitle: Feugiat Amet Tempus
         title: Tempus
