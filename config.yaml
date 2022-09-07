@@ -44,21 +44,21 @@ params:
         text: 'Design: '
         url: https://www.html5up.net
     social:
-      - icon: fa-twitter
-        label: Twitter
-        url: https://www.twitter.com
-      - icon: fa-facebook
-        label: Facebook
-        url: https://www.facebook.com
-      - icon: fa-instagram
-        label: Instagram
-        url: https://www.instagram.com
+      # - icon: fa-twitter
+      #  label: Twitter
+      #  url: https://www.twitter.com
+      # - icon: fa-facebook
+      #  label: Facebook
+      #  url: https://www.facebook.com
+      # - icon: fa-instagram
+      #  label: Instagram
+      #  url: https://www.instagram.com
       - icon: fa-github
         label: GitHub
-        url: https://www.github.com
+        url: https://github.com/Zezhou-Tang
       - icon: fa-linkedin
         label: LinkedIn
-        url: https://www.linkedin.com
+        url: https://www.linkedin.com/in/elijah-zezhou-tang/
   image: ''
   name: Your name
   navigation:
@@ -85,12 +85,12 @@ params:
     showcase:
       - image: lbs.jpg
         subtitle: Ipsum Dolor Sit Amet
-        title: risk_return
+        title: Risk Return
         url: blogs/risk_return
       - image: pic02.jpg
         subtitle: Feugiat Amet Tempus
-        title: Tempus
-        url: blogs/tempus
+        title: About Me
+        url: blogs/about_me
       - image: pic03.jpg
         subtitle: Lorem Etiam Nullam
         title: Magna

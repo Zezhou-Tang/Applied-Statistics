@@ -1,0 +1,46 @@
+---
+title: "About Me"
+output: html_document
+date: "2022-09-07"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## 1 Basic Information
+
+::: {.image style="text-align:center"}
+<img src="/Users/thanox/Downloads/Photo.jpg" width="15%" text-align="center"/>
+:::
+
+|    Name     | Sex  |   Birthday   | Nationality |
+|:-----------:|:----:|:------------:|:-----------:|
+| Zezhou Tang | Male | Mon 10, 2000 |   Chinese   |
+
+: Basic information
+
+## 2 Past Experience
+
+### 2.1 Education
+
+**Queen Mary University of London & Beijing Univ. of Posts and Telecoms.**
+
+*B.Eng(Hons) of Electronic Engineering in e-Commerce Engineering with Law*
+
+-   Grade: 1st Class Honour (GPA: 75.7)
+-   Honors and Awards: BUPT Merit Scholarship, Outstanding Student Leader and Activist, National E-Commerce Competition (2nd Prize in Beijing, Champion in BUPT), National Innovation and Entrepreneurship Competition (National Prize)
+-   Leadership: President of Art Dept. of Student Union; President of Photography Club, Founder of BUPT Business Group
+
+### 2.2 Business Experience
+
+-   **SAIF Partners** *Investment Summer Analyst*
+
+-   **A Better Community Consulting** *Project Consultant*
+
+-   **Roland Berger** *Summer Intern*
+
+-   **Deloitte Consulting** *Consulting Intern*
+
+and more...
+
