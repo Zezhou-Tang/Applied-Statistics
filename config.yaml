@@ -93,8 +93,8 @@ params:
         url: blogs/about_me
       - image: pic03.jpg
         subtitle: Lorem Etiam Nullam
-        title: Magna
-        url: blogs/magna
+        title: Homework 1
+        url: blogs/homework1
       - image: pic04.jpg
         subtitle: Nisl Sed Aliquam
         title: Ipsum
