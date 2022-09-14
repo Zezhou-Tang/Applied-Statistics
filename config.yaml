@@ -99,7 +99,7 @@ params:
       - image: pic05.jpg
         subtitle: Attached
         title: My CV
-        url: blogs/cv
+        url: blogs/tzz_cv.pdf
       - image: pic06.jpg
         subtitle: Feugiat Amet Tempus
         title: Etiam
