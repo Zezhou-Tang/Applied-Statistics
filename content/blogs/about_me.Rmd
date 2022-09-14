@@ -11,7 +11,7 @@ knitr::opts_chunk$set(echo = TRUE)
 ## 1 Basic Information
 
 ::: {.image style="text-align:center"}
-<img src="/Users/thanox/Downloads/Photo.jpg" width="15%" text-align="center"/>
+<img src="/square.jpg" width="15%" text-align="center"/>
 :::
 
 |    Name     | Sex  |   Birthday   | Nationality |
@@ -38,7 +38,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 -   **A Better Community Consulting** *Project Consultant*
 
--   **Roland Berger** *Summer Intern*
+-   **Roland Berger** *Incoming Summer Intern*
 
 -   **Deloitte Consulting** *Consulting Intern*
 
