@@ -77,9 +77,9 @@ params:
         url: blogs/ipsum
       - name: Elements
         url: elements.html
-    menu: Menu
-    subtitle: By HTML5 Up
-    title: Forty
+    menu: 
+    subtitle: Personal Website
+    title: Zezhou Tang
   tiles:
     enable: yes
     showcase:
@@ -100,9 +100,9 @@ params:
         title: Homework 3
         url: blogs/ipsum
       - image: pic05.jpg
-        subtitle: Ipsum Dolor Sit Amet
-        title: Consequat
-        url: blogs/ipsum
+        subtitle: Attached
+        title: My CV
+        url: blogs/cv
       - image: pic06.jpg
         subtitle: Feugiat Amet Tempus
         title: Etiam
