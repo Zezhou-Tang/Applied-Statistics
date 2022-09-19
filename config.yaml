@@ -27,7 +27,7 @@ params:
         title: Email
     enable: yes
     phone:
-      - phone: (86) 13588155725
+      - phone: (44) 7536210635
         title: Phone
   custom_css: []
   custom_js: []
@@ -89,21 +89,21 @@ params:
         title: About Me
         url: blogs/about_me
       - image: pic03.jpg
+        subtitle: Group work 1
+        title: Homework 1
+        url: blogs/homework1
+      - image: pic04.jpg
         subtitle: Group work 2
         title: Homework 2
         url: blogs/homework2
-      - image: pic04.jpg
-        subtitle: Group work 3
-        title: Homework 3
-        url: blogs/ipsum
       - image: pic05.jpg
         subtitle: Attached
         title: My CV
         url: blogs/tzz_cv.pdf
       - image: pic06.jpg
-        subtitle: Feugiat Amet Tempus
-        title: Etiam
-        url: blogs/ipsum
+        subtitle: Group work 3
+        title: Homework 3
+        url: blogs/homework3
   two:
     buttonText: Get Started
     enable: yes
